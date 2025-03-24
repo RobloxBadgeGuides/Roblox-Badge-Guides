@@ -1,1 +1,2 @@
-Navigate to the wiki to see what this repo is for!
+This repo is here for roblox badge-hunting related guides, with the guides being located at the wiki section of this very repo.
+I recommend using <a href="https://chromewebstore.google.com/detail/roblox-badge-guide-linker/ikdaaahhdhikkmnbcaacclcgppalmgjc">this extension</a> (click <a href="https://addons.mozilla.org/en-US/firefox/addon/roblox-badge-guide-linker/">here</a> for Firefox,) that links Roblox game pages to their respective wiki page. The extension is still in slight 'beta', but most issues are fixed and is maintained by me, Jackspajf.
